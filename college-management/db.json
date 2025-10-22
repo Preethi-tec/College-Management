@@ -1,27 +1,107 @@
 {
   "students": [
-    { "id": 1, "name": "Preethi M", "email": "preethi@gmail.com", "course": "BSc CS" },
-    { "id": 2, "name": "Rahul K", "email": "rahul@gmail.com", "course": "BBA" },
-    { "id": 3, "name": "Ananya S", "email": "ananya@gmail.com", "course": "BSc CS" },
-    { "id": 4, "name": "Vikram R", "email": "vikram@gmail.com", "course": "BCom" },
-    { "id": 5, "name": "Neha T", "email": "neha@gmail.com", "course": "BA English" },
-    { "id": 6, "name": "Arjun P", "email": "arjun@gmail.com", "course": "BSc CS" },
-    { "id": 7, "name": "Sakshi L", "email": "sakshi@gmail.com", "course": "BBA" },
-    { "id": 8, "name": "Rohan M", "email": "rohan@gmail.com", "course": "BCom" }
+    {
+      "id": "1",
+      "name": "Preethi M",
+      "email": "preethi@gmail.com",
+      "course": "BSc CS"
+    },
+    {
+      "id": "2",
+      "name": "Rahul K",
+      "email": "rahul@gmail.com",
+      "course": "BBA"
+    },
+    {
+      "id": "3",
+      "name": "Ananya S",
+      "email": "ananya@gmail.com",
+      "course": "BSc CS"
+    },
+    {
+      "id": "4",
+      "name": "Vikram R",
+      "email": "vikram@gmail.com",
+      "course": "BCom"
+    },
+    {
+      "id": "5",
+      "name": "Neha T",
+      "email": "neha@gmail.com",
+      "course": "BA English"
+    },
+    {
+      "id": "6",
+      "name": "Arjun P",
+      "email": "arjun@gmail.com",
+      "course": "BSc CS"
+    },
+    {
+      "id": "7",
+      "name": "Sakshi L",
+      "email": "sakshi@gmail.com",
+      "course": "BBA"
+    },
+    {
+      "id": "8",
+      "name": "Rohan M",
+      "email": "rohan@gmail.com",
+      "course": "BCom"
+    },
+    {
+      "id": "441b",
+      "name": "praveen",
+      "email": "preethiyadav948@gmail.com",
+      "course": "IT"
+    }
   ],
   "faculty": [
-    { "id": 1, "name": "Dr. Sharma", "subject": "Mathematics" },
-    { "id": 2, "name": "Ms. Priya", "subject": "English" },
-    { "id": 3, "name": "Dr. Nair", "subject": "Physics" },
-    { "id": 4, "name": "Mr. Ramesh", "subject": "Commerce" },
-    { "id": 5, "name": "Ms. Anjali", "subject": "Computer Science" }
+    {
+      "id": "1",
+      "name": "Dr. Sharma",
+      "subject": "Mathematics"
+    },
+    {
+      "id": "2",
+      "name": "Ms. Priya",
+      "subject": "English"
+    },
+    {
+      "id": "3",
+      "name": "Dr. Nair",
+      "subject": "Physics"
+    },
+    {
+      "id": "4",
+      "name": "Mr. Ramesh",
+      "subject": "Commerce"
+    },
+    {
+      "id": "5",
+      "name": "Ms. Anjali",
+      "subject": "Computer Science"
+    }
   ],
   "courses": [
-    { "id": 1, "name": "BSc CS", "faculty": "Dr. Sharma" },
-    { "id": 2, "name": "BBA", "faculty": "Ms. Priya" },
-    { "id": 3, "name": "BCom", "faculty": "Mr. Ramesh" },
-    { "id": 4, "name": "BA English", "faculty": "Ms. Priya" },
-    { "id": 5, "name": "BSc Physics", "faculty": "Dr. Nair" },
-    { "id": 6, "name": "BSc CS Advanced", "faculty": "Ms. Anjali" }
+    {
+      "id": "2",
+      "name": "BBA",
+      "faculty": "Ms. Priya"
+    },
+    {
+      "id": "6",
+      "name": "BSc CS Advanced",
+      "faculty": "Ms. Anjali"
+    },
+    {
+      "id": "3b89",
+      "name": "IT",
+      "faculty": "RAMA"
+    },
+    {
+      "id": "c265",
+      "name": "Aerospace",
+      "faculty": "Rama"
+    }
   ]
 }
